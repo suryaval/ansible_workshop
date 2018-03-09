@@ -1,4 +1,5 @@
 #Run this with the following command: ansible-playbook nginx.yml
+#Sample Nginx playbook
 ---
 - hosts: web
   name: install and start nginx
